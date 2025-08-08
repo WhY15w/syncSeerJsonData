@@ -28,7 +28,7 @@ jobs:
 
       - name: Run sync script
         # run: python syncSeerH5Data.py
-        run: python json&xml.py
+        run: python json_xml.py
 
       - name: Configure Git
         run: |
