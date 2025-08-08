@@ -27,8 +27,7 @@ jobs:
           pip install requests
 
       - name: Run sync script
-        # run: python syncSeerH5Data.py
-        run: python json_xml.py
+        run: python syncSeerH5Data.py
 
       - name: Configure Git
         run: |
