@@ -1,0 +1,76 @@
+{
+  "root": {
+    "day": [
+      {
+        "id": 1,
+        "target": "完成1次任意难度泰坦矿洞",
+        "comPeleteSituation": "已完成次数",
+        "goMap": 1153
+      },
+      {
+        "id": 2,
+        "target": "完成3次任意层数经验训练场",
+        "comPeleteSituation": "已完成次数",
+        "goMap": 1153,
+        "numWeekly": 201581
+      },
+      {
+        "id": 3,
+        "target": "挑战勇者之塔，肃清任意1层",
+        "comPeleteSituation": "已肃清层数",
+        "goMap": 1153
+      },
+      {
+        "id": 4,
+        "target": "在六界神王殿中取得5次战斗胜利",
+        "comPeleteSituation": "已胜利次数",
+        "goMap": 1153,
+        "numWeekly": 18708
+      },
+      {
+        "id": 5,
+        "target": "完成3次任意层数学习力训练场",
+        "comPeleteSituation": "已完成次数",
+        "goMap": 1153,
+        "numWeekly": 201582
+      }
+    ],
+    "weekly": [
+      {
+        "id": 1,
+        "target": "完成6次任意难度泰坦矿洞",
+        "comPeleteSituation": "已完成次数",
+        "goMap": 1153,
+        "numWeekly": 20381
+      },
+      {
+        "id": 2,
+        "target": "完成18次任意层数经验训练场",
+        "comPeleteSituation": "已完成次数",
+        "goMap": 1153,
+        "numWeekly": 20382
+      },
+      {
+        "id": 3,
+        "target": "挑战勇者之塔，累计肃清任意10层",
+        "comPeleteSituation": "已肃清层数",
+        "goMap": 1153,
+        "numWeekly": 20233
+      },
+      {
+        "id": 4,
+        "target": "通过1次六界神王殿任意模式",
+        "comPeleteSituation": "已通过次数",
+        "goMap": 1153,
+        "numWeekly": 20040
+      },
+      {
+        "id": 5,
+        "target": "完成18次任意层数学习力训练场",
+        "comPeleteSituation": "已完成次数",
+        "goMap": 1153,
+        "numWeekly": 20383
+      }
+    ]
+  }
+}

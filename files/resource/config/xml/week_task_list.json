@@ -1,0 +1,46 @@
+{
+  "root": {
+    "item": [
+      {
+        "_text": "app/***",
+        "name": 1216,
+        "type": "module"
+      },
+      {
+        "_text": "app/SpetChanLaoMainPanel",
+        "name": "s",
+        "type": "module"
+      },
+      {
+        "_text": "app/CultivationGoToMapMainPanel",
+        "name": "主题活动集合",
+        "type": "module"
+      },
+      {
+        "_text": "app/CultivationS1Panel",
+        "name": "禅意修行",
+        "type": "module"
+      },
+      {
+        "_text": "app/CombatCultivationMainPanel",
+        "name": "战斗修行",
+        "type": "module"
+      },
+      {
+        "_text": "app/AnnualPreheating2023MainPanel",
+        "name": "年费预热3",
+        "type": "module"
+      },
+      {
+        "_text": "app/Year2022PetLeaveSoonMainPanel",
+        "name": "至序圣华即将离开",
+        "type": "module"
+      },
+      {
+        "_text": "app/AdvancedPetMainPanel_3704",
+        "name": "神谕进阶",
+        "type": "module"
+      }
+    ]
+  }
+}

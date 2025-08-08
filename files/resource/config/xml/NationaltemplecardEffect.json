@@ -1,0 +1,402 @@
+{
+  "_declaration": {
+    "version": 1,
+    "encoding": "UTF-8",
+    "standalone": "yes"
+  },
+  "NationaltemplecardEffects": {
+    "NationaltemplecardEffect": [
+      {
+        "effectId": 1,
+        "effectName": "冲锋",
+        "effectType": 1,
+        "effectDesc": "以攻击发动进攻",
+        "effectConsume": 1,
+        "limitCond": 0,
+        "selfAttrDyChgBefore": 0,
+        "otherAttrDyChgBefore": 0,
+        "selfAttacking": "1/21/0/1",
+        "selfAttrDyChgAfter": 0,
+        "otherAttrDyChgAfter": 0,
+        "otherStateChange": 0
+      },
+      {
+        "effectId": 2,
+        "effectName": "决斗",
+        "effectType": 1,
+        "effectDesc": "扣除消耗后，以剩余PP值发动进攻",
+        "effectConsume": 3,
+        "limitCond": 0,
+        "selfAttrDyChgBefore": 0,
+        "otherAttrDyChgBefore": 0,
+        "selfAttacking": "4/21/0/1",
+        "selfAttrDyChgAfter": 0,
+        "otherAttrDyChgAfter": 0,
+        "otherStateChange": 0
+      },
+      {
+        "effectId": 3,
+        "effectName": "盾击",
+        "effectType": 1,
+        "effectDesc": "以防御发动进攻",
+        "effectConsume": 1,
+        "selfAttacking": "2/21/0/1"
+      },
+      {
+        "effectId": 4,
+        "effectName": "全面进攻",
+        "effectType": 1,
+        "effectDesc": "以己方攻击、防御、PP值分别进行进攻，",
+        "effectConsume": 1,
+        "selfAttacking": "1/21/0/1;2/21/0/1;4/21/0/1"
+      },
+      {
+        "effectId": 5,
+        "effectName": "决绝",
+        "effectType": 1,
+        "effectDesc": "以自身冷静的3倍发动进攻",
+        "effectConsume": 3,
+        "selfAttacking": "5/21/0/3"
+      },
+      {
+        "effectId": 6,
+        "effectName": "猛攻",
+        "effectType": 1,
+        "effectDesc": "以自身狂热的3倍发动进攻",
+        "effectConsume": 3,
+        "selfAttacking": "6/21/0/3"
+      },
+      {
+        "effectId": 7,
+        "effectName": "宣战",
+        "effectType": 2,
+        "effectDesc": "令自身攻击+2",
+        "effectConsume": 1,
+        "selfAttrDyChgBefore": "1/1/0/2"
+      },
+      {
+        "effectId": 8,
+        "effectName": "再生",
+        "effectType": 2,
+        "effectDesc": "令自身生命+10",
+        "effectConsume": 1,
+        "selfAttrDyChgBefore": "3/1/0/10"
+      },
+      {
+        "effectId": 9,
+        "effectName": "守御",
+        "effectType": 2,
+        "effectDesc": "令自身防御+2",
+        "effectConsume": 1,
+        "selfAttrDyChgBefore": "2/1/0/2"
+      },
+      {
+        "effectId": 10,
+        "effectName": "沉着",
+        "effectType": 2,
+        "effectDesc": "令自身冷静+2",
+        "effectConsume": 1,
+        "selfAttrDyChgBefore": "5/1/0/2"
+      },
+      {
+        "effectId": 11,
+        "effectName": "激动",
+        "effectType": 2,
+        "effectDesc": "令自身狂热+2",
+        "effectConsume": 1,
+        "selfAttrDyChgBefore": "6/1/0/2"
+      },
+      {
+        "effectId": 12,
+        "effectName": "蓄势",
+        "effectType": 2,
+        "effectDesc": "令自身PP+3",
+        "effectConsume": 0,
+        "selfAttrDyChgBefore": "4/1/0/3"
+      },
+      {
+        "effectId": 13,
+        "effectName": "指引",
+        "effectType": 2,
+        "effectDesc": "令自身攻击提升自身的冷静值，自身冷静小于3时无法使用",
+        "effectConsume": 5,
+        "limitCond": "5/11/0/3",
+        "selfAttrDyChgBefore": "1/1/5/0"
+      },
+      {
+        "effectId": 14,
+        "effectName": "捍卫",
+        "effectType": 2,
+        "effectDesc": "令自身防御提升自身的冷静值，自身冷静小于3时无法使用",
+        "effectConsume": 5,
+        "limitCond": "5/11/0/3",
+        "selfAttrDyChgBefore": "2/1/5/0"
+      },
+      {
+        "effectId": 15,
+        "effectName": "激进",
+        "effectType": 2,
+        "effectDesc": "令自身狂热提升50%，自身狂热小于3时无法使用",
+        "effectConsume": 5,
+        "limitCond": "6/11/0/3",
+        "selfAttrDyChgBefore": "6/3/0/50"
+      },
+      {
+        "effectId": 16,
+        "effectName": "狂烈",
+        "effectType": 2,
+        "effectDesc": "令自身冷静外所有数值增加狂热值，自身狂热小于5时无法使用",
+        "effectConsume": 5,
+        "limitCond": "6/11/0/5",
+        "selfAttrDyChgBefore": "1/1/6/0;2/1/6/0;3/1/6/0;4/1/6/0"
+      },
+      {
+        "effectId": 17,
+        "effectName": "镇定",
+        "effectType": 2,
+        "effectDesc": "清除自身狂热，令冷静翻倍",
+        "effectConsume": 3,
+        "selfAttrDyChgBefore": "6/5/0/0;5/3/0/100"
+      },
+      {
+        "effectId": 18,
+        "effectName": "热血",
+        "effectType": 2,
+        "effectDesc": "将自身冷静转化为狂热",
+        "effectConsume": 3,
+        "selfAttrDyChgBefore": "6/1/5/0;5/5/0/0"
+      },
+      {
+        "effectId": 19,
+        "effectName": "安抚",
+        "effectType": 2,
+        "effectDesc": "以对手狂热的3倍发动进攻，然后令对手狂热归0，自身冷静小于5时无法使用",
+        "effectConsume": 3,
+        "limitCond": "5/11/0/5",
+        "selfAttacking": "16/21/0/3",
+        "otherAttrDyChgAfter": "6/5/0/0"
+      },
+      {
+        "effectId": 20,
+        "effectName": "安定",
+        "effectType": 2,
+        "effectDesc": "令自身狂热、冷静外所有数值上升冷静值，自身冷静小于5时无法使用",
+        "effectConsume": 3,
+        "limitCond": "5/11/0/5",
+        "selfAttrDyChgBefore": "1/1/5/0;2/1/5/0;3/1/5/0;4/1/5/0"
+      },
+      {
+        "effectId": 21,
+        "effectName": "寒霜凌天",
+        "effectType": 4,
+        "effectDesc": "以狂热发动进攻、清除对手的冷静",
+        "effectConsume": 5,
+        "selfAttacking": "6/21/0/1",
+        "otherAttrDyChgAfter": "5/5/0/0"
+      },
+      {
+        "effectId": 22,
+        "effectName": "孤洁之傲",
+        "effectType": 4,
+        "effectDesc": "使自身生命等于30",
+        "effectConsume": 3,
+        "selfAttrDyChgBefore": "3/5/0/30"
+      },
+      {
+        "effectId": 23,
+        "effectName": "鏖战",
+        "effectType": 3,
+        "effectDesc": "令对手疲惫（技能补充后，随机一个技能无法使用）",
+        "effectConsume": 3,
+        "otherStateChange": "102/31/0/1"
+      },
+      {
+        "effectId": 24,
+        "effectName": "霜冻",
+        "effectType": 3,
+        "effectDesc": "令对手冻伤（每使用一张牌，生命-2）",
+        "effectConsume": 5,
+        "otherStateChange": "101/31/0/1"
+      },
+      {
+        "effectId": 25,
+        "effectName": "狂鲨噬猎",
+        "effectType": 4,
+        "effectDesc": "以对手狂热的3倍发动进攻2次，然后清除对手狂热，自身冷静与狂热差小于5时无法使用",
+        "effectConsume": 5,
+        "limitCond": "5/13/6/5",
+        "selfAttacking": "16/21/0/3;16/21/0/3",
+        "otherAttrDyChgAfter": "6/5/0/0"
+      },
+      {
+        "effectId": 26,
+        "effectName": "鲛鲨行狩",
+        "effectType": 4,
+        "effectDesc": "自身冷静提升对手狂热的数值，然后以自身冷静发动进攻",
+        "effectConsume": 5,
+        "selfAttrDyChgBefore": "5/1/16/0",
+        "selfAttacking": "5/21/0/1"
+      },
+      {
+        "effectId": 27,
+        "effectName": "踏霆礼赞",
+        "effectType": 4,
+        "effectDesc": "以自身冷静的平方发动进攻，然后将冷静变为0，",
+        "effectConsume": 7,
+        "selfAttacking": "5/21/5/1",
+        "selfAttrDyChgAfter": "5/5/0/0"
+      },
+      {
+        "effectId": 28,
+        "effectName": "稳若磐石",
+        "effectType": 4,
+        "effectDesc": "令自身冷静+1，自身每有1点PP，冷静额外+1",
+        "effectConsume": 3,
+        "selfAttrDyChgBefore": "5/1/0/1;5/1/4/0"
+      },
+      {
+        "effectId": 29,
+        "effectName": "风掣雷行",
+        "effectType": 4,
+        "effectDesc": "令自身生命提升冷静的数值，自身每有1点PP则额外进行1次提升",
+        "effectConsume": 5,
+        "selfAttrDyChgBefore": "3/6/4/5"
+      },
+      {
+        "effectId": 30,
+        "effectName": "奇镰解放",
+        "effectType": 4,
+        "effectDesc": "自身攻击翻倍",
+        "effectConsume": 1,
+        "selfAttrDyChgBefore": "1/1/1/0"
+      },
+      {
+        "effectId": 31,
+        "effectName": "嫣然灼魂",
+        "effectType": 4,
+        "effectDesc": "以攻击发动进攻，自身每有1点冷静，恢复1点生命，并令对手生命-1",
+        "effectConsume": 5,
+        "selfAttacking": "1/21/0/1",
+        "selfAttrDyChgAfter": "3/1/5/0",
+        "otherAttrDyChgAfter": "3/2/5/0"
+      },
+      {
+        "effectId": 32,
+        "effectName": "媚云遮眼",
+        "effectType": 4,
+        "effectDesc": "以攻击发动进攻，令对手疲惫（技能补充后，随机一个技能无法使用）",
+        "effectConsume": 3,
+        "selfAttacking": "1/21/0/1",
+        "otherStateChange": "102/31/0/1"
+      },
+      {
+        "effectId": 33,
+        "effectName": "穿云入梦",
+        "effectType": 4,
+        "effectDesc": "以攻击、冷静分别发动进攻，令对手疲惫（技能补充后，随机一个技能无法使用）",
+        "effectConsume": 5,
+        "selfAttacking": "1/21/0/1;5/21/0/1",
+        "otherStateChange": "102/31/0/1"
+      },
+      {
+        "effectId": 34,
+        "effectName": "谜度空间",
+        "effectType": 4,
+        "effectDesc": "令对手攻击、防御、生命-1，令对手疲惫（技能补充后，随机一个技能无法使用）",
+        "effectConsume": 5,
+        "otherAttrDyChgBefore": "1/2/0/1;2/2/0/1;3/2/0/1",
+        "otherStateChange": "102/31/0/1"
+      },
+      {
+        "effectId": 35,
+        "effectName": "羽息瞬破",
+        "effectType": 4,
+        "effectDesc": "以攻击、冷静分别发动进攻，令对手睡眠（技能无法获得填充）",
+        "effectConsume": 5,
+        "selfAttacking": "1/21/0/1;5/21/0/1",
+        "otherStateChange": "103/31/0/1"
+      },
+      {
+        "effectId": 36,
+        "effectName": "垂宇龙吟",
+        "effectType": 4,
+        "effectDesc": "以冷静发动进攻，令对手攻击、防御-1，令对手睡眠（技能无法获得填充）",
+        "effectConsume": 5,
+        "selfAttacking": "5/21/0/1",
+        "otherAttrDyChgAfter": "1/2/0/1;2/2/0/1",
+        "otherStateChange": "103/31/0/1"
+      },
+      {
+        "effectId": 37,
+        "effectName": "远程锚击",
+        "effectType": 4,
+        "effectDesc": "令自身防御+1、攻击+1，然后以攻击、防御分别发动进攻",
+        "effectConsume": 7,
+        "selfAttrDyChgBefore": "1/1/0/1;2/1/0/1",
+        "selfAttacking": "1/21/0/1;2/21/0/1"
+      },
+      {
+        "effectId": 38,
+        "effectName": "深水突进",
+        "effectType": 4,
+        "effectDesc": "以攻击发动进攻，然后减少对手2点生命，自身增加2点生命",
+        "effectConsume": 5,
+        "selfAttacking": "1/21/0/1",
+        "selfAttrDyChgAfter": "3/1/0/2",
+        "otherAttrDyChgAfter": "3/2/0/2"
+      },
+      {
+        "effectId": 39,
+        "effectName": "恐惧战意",
+        "effectType": 4,
+        "effectDesc": "令对手攻击、防御变回原本值",
+        "effectConsume": 7,
+        "otherAttrDyChgBefore": "1/5/0/3;2/5/0/2"
+      },
+      {
+        "effectId": 40,
+        "effectName": "铁拳粉碎",
+        "effectType": 4,
+        "effectDesc": "将对手的防御视为0，以攻击发动进攻",
+        "effectConsume": 5,
+        "selfAttacking": "1/22/0/1"
+      },
+      {
+        "effectId": 41,
+        "effectName": "山呼海啸",
+        "effectType": 4,
+        "effectDesc": "令自身攻击、冷静均变为二者之和，然后以冷静发动进攻",
+        "effectConsume": 7,
+        "selfAttrDyChgBefore": "5/1/1/0;1/5/5/0",
+        "selfAttacking": "5/21/0/1"
+      },
+      {
+        "effectId": 42,
+        "effectName": "湍流阵法",
+        "effectType": 4,
+        "effectDesc": "令对手攻击、狂热、冷静减2，自身攻击、狂热提升2、冷静提升2",
+        "effectConsume": 5,
+        "selfAttrDyChgBefore": "1/1/0/2;5/1/0/2;6/1/0/2",
+        "otherAttrDyChgBefore": "1/2/0/2;5/2/0/2;6/2/0/2"
+      },
+      {
+        "effectId": 43,
+        "effectName": "沧流止啼",
+        "effectType": 4,
+        "effectDesc": "以狂热发动进攻、令对手疲惫（技能补充后，随机一个技能无法使用）、令对手冰封（回合结束时，PP归0）",
+        "effectConsume": 7,
+        "selfAttacking": "6/21/0/1",
+        "otherStateChange": "102/31/0/1;104/31/0/1"
+      },
+      {
+        "effectId": 44,
+        "effectName": "以风易寒",
+        "effectType": 4,
+        "effectDesc": "令对手狂热提升自身狂热值；令对手冷静下降自身冷静值",
+        "effectConsume": 5,
+        "selfAttrDyChgBefore": "6/1/16/0",
+        "otherAttrDyChgBefore": "5/2/15/0"
+      }
+    ]
+  }
+}
