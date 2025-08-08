@@ -1,0 +1,310 @@
+{
+  "Anniversaryshop": {
+    "type": [
+      {
+        "goods": [
+          {
+            "ID": 1,
+            "ItemID": 1722826,
+            "Desc": "契约能量",
+            "rewardcnt": 80,
+            "price": 50,
+            "exchangecut": 1,
+            "exchangenum": 10,
+            "UserInfo": 20280,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 2,
+            "ItemID": 1706924,
+            "Desc": "护佑神石",
+            "rewardcnt": 1,
+            "price": 30,
+            "exchangecut": 1,
+            "exchangenum": 5,
+            "UserInfo": 20281,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 3,
+            "ItemID": 1706926,
+            "Desc": "轮回神石",
+            "rewardcnt": 1,
+            "price": 60,
+            "exchangecut": 1,
+            "exchangenum": 5,
+            "UserInfo": 20282,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 4,
+            "ItemID": 1706925,
+            "Desc": "宽恕神石",
+            "rewardcnt": 1,
+            "price": 30,
+            "exchangecut": 1,
+            "exchangenum": 5,
+            "UserInfo": 20283,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 5,
+            "ItemID": 1724664,
+            "Desc": "[K13系列]刻印优惠券",
+            "rewardcnt": 1,
+            "price": 40,
+            "exchangecut": 3,
+            "exchangenum": 8,
+            "UserInfo": 121509,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 23,
+            "ItemID": 300066,
+            "Desc": "通用刻印激活水晶",
+            "rewardcnt": 1,
+            "price": 240,
+            "exchangecut": 1,
+            "exchangenum": 1,
+            "UserInfo": 20292,
+            "NewMsglogId": 2206241007
+          },
+          {
+            "ID": 6,
+            "ItemID": 2300046,
+            "Desc": "周年纪念大礼盒：开启后可获得以下道具之一：100级升级秘药Ω*1、原核碎片*10000、S级技能石*1",
+            "rewardcnt": 1,
+            "price": 40,
+            "exchangecut": 1,
+            "exchangenum": 5,
+            "UserInfo": 20284,
+            "NewMsglogId": 2206241005
+          },
+          {
+            "ID": 7,
+            "ItemID": 2300047,
+            "Desc": "周年纪念小礼盒：开启后可获得以下道具之一：赛尔豆*130000、泰坦之灵*13000、经验值*130000",
+            "rewardcnt": 1,
+            "price": 1,
+            "exchangecut": 0,
+            "exchangenum": 0,
+            "UserInfo": 0,
+            "NewMsglogId": 2206241006
+          }
+        ],
+        "ID": 1,
+        "Desc": "培养道具"
+      },
+      {
+        "goods": [
+          {
+            "ID": 8,
+            "ItemID": 300853,
+            "Desc": "天赋提升药剂Ω",
+            "rewardcnt": 1,
+            "price": 100,
+            "exchangecut": 1,
+            "exchangenum": 5,
+            "UserInfo": 20285,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 9,
+            "ItemID": 300651,
+            "Desc": "全能学习力注入剂",
+            "rewardcnt": 1,
+            "price": 100,
+            "exchangecut": 1,
+            "exchangenum": 5,
+            "UserInfo": 20286,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 10,
+            "ItemID": 1706927,
+            "Desc": "红宝石",
+            "rewardcnt": 50,
+            "price": 100,
+            "exchangecut": 1,
+            "exchangenum": 10,
+            "UserInfo": 20287,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 11,
+            "ItemID": 1706928,
+            "Desc": "绿宝石",
+            "rewardcnt": 50,
+            "price": 100,
+            "exchangecut": 1,
+            "exchangenum": 10,
+            "UserInfo": 20288,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 12,
+            "ItemID": 300618,
+            "Desc": "高级体力上限提升药剂Ω",
+            "rewardcnt": 1,
+            "price": 40,
+            "exchangecut": 1,
+            "exchangenum": 5,
+            "UserInfo": 20289,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 13,
+            "ItemID": 300063,
+            "Desc": "特性开启晶片Ω",
+            "rewardcnt": 1,
+            "price": 35,
+            "exchangecut": 1,
+            "exchangenum": 10,
+            "UserInfo": 20290,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 14,
+            "ItemID": 300065,
+            "Desc": "特性重组剂Ω",
+            "rewardcnt": 1,
+            "price": 25,
+            "exchangecut": 1,
+            "exchangenum": 10,
+            "UserInfo": 20291,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 24,
+            "ItemID": 1724562,
+            "Desc": "精灵心愿单",
+            "rewardcnt": 1,
+            "price": 15,
+            "exchangecut": 1,
+            "exchangenum": 20,
+            "UserInfo": 20293,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 25,
+            "ItemID": 1723167,
+            "Desc": "星际密令",
+            "rewardcnt": 1,
+            "price": 58,
+            "exchangecut": 1,
+            "exchangenum": 30,
+            "UserInfo": 20294,
+            "NewMsglogId": 0
+          },
+          {
+            "ID": 26,
+            "ItemID": 1723255,
+            "Desc": "浩瀚星核",
+            "rewardcnt": 1,
+            "price": 20,
+            "exchangecut": 1,
+            "exchangenum": 30,
+            "UserInfo": 20295,
+            "NewMsglogId": 0
+          }
+        ],
+        "ID": 3,
+        "Desc": "强化道具"
+      },
+      {
+        "goods": [
+          {
+            "ID": 15,
+            "ItemID": 500898,
+            "Desc": "镭射灵籁泳馆",
+            "rewardcnt": 1,
+            "price": 150,
+            "exchangecut": 3,
+            "exchangenum": 1,
+            "UserInfo": 121501,
+            "NewMsglogId": 2206241008
+          },
+          {
+            "ID": 16,
+            "ItemID": 500899,
+            "Desc": "镭射星璀舞台",
+            "rewardcnt": 1,
+            "price": 150,
+            "exchangecut": 3,
+            "exchangenum": 1,
+            "UserInfo": 121502,
+            "NewMsglogId": 2206241009
+          },
+          {
+            "ID": 17,
+            "ItemID": 500900,
+            "Desc": "镭射青啼",
+            "rewardcnt": 1,
+            "price": 150,
+            "exchangecut": 3,
+            "exchangenum": 1,
+            "UserInfo": 121503,
+            "NewMsglogId": 2206241010
+          },
+          {
+            "ID": 18,
+            "ItemID": 500901,
+            "Desc": "镭射蒂朵",
+            "rewardcnt": 1,
+            "price": 150,
+            "exchangecut": 3,
+            "exchangenum": 1,
+            "UserInfo": 121504,
+            "NewMsglogId": 2206241011
+          },
+          {
+            "ID": 19,
+            "ItemID": 500902,
+            "Desc": "蒂朵的涂鸦",
+            "rewardcnt": 1,
+            "price": 150,
+            "exchangecut": 3,
+            "exchangenum": 1,
+            "UserInfo": 121505,
+            "NewMsglogId": 2206241012
+          },
+          {
+            "ID": 20,
+            "ItemID": 540042,
+            "Desc": "女仆蒂朵Q版立牌",
+            "rewardcnt": 1,
+            "price": 100,
+            "exchangecut": 3,
+            "exchangenum": 1,
+            "UserInfo": 121506,
+            "NewMsglogId": 2206241013
+          },
+          {
+            "ID": 21,
+            "ItemID": 540041,
+            "Desc": "侦探蒂朵Q版立牌",
+            "rewardcnt": 1,
+            "price": 100,
+            "exchangecut": 3,
+            "exchangenum": 1,
+            "UserInfo": 121507,
+            "NewMsglogId": 2206241014
+          },
+          {
+            "ID": 22,
+            "ItemID": 540040,
+            "Desc": "道士蒂朵Q版立牌",
+            "rewardcnt": 1,
+            "price": 100,
+            "exchangecut": 3,
+            "exchangenum": 1,
+            "UserInfo": 121508,
+            "NewMsglogId": 2206241015
+          }
+        ],
+        "ID": 4,
+        "Desc": "活动纪念"
+      }
+    ]
+  }
+}

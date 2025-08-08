@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "chs": "精灵",
+      "key": "btnPet",
+      "res": "main_btnPet_png",
+      "pos": 1,
+      "type": "leftbottom",
+      "limitFlag": "3|5",
+      "reddot": "",
+      "response": "1|10",
+      "stat": "精灵背包"
+    },
+    {
+      "id": 2,
+      "chs": "个人",
+      "key": "btnInfo",
+      "res": "main_btnInfo_png",
+      "pos": 2,
+      "type": "leftbottom",
+      "limitFlag": "",
+      "reddot": "1004",
+      "response": "1|27",
+      "stat": "个人信息"
+    },
+    {
+      "id": 3,
+      "chs": "图鉴",
+      "key": "btnBook",
+      "res": "main_btnBook_png",
+      "pos": 3,
+      "type": "leftbottom",
+      "limitFlag": "",
+      "reddot": "",
+      "response": "1|7",
+      "stat": "图鉴"
+    },
+    {
+      "id": 4,
+      "chs": "物品",
+      "key": "btnBag",
+      "res": "main_btnBag_png",
+      "pos": 4,
+      "type": "leftbottom",
+      "limitFlag": "",
+      "reddot": "",
+      "response": "1|15",
+      "stat": "物品"
+    }
+  ]
+}

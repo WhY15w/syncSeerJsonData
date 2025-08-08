@@ -1,0 +1,182 @@
+{
+  "_declaration": {
+    "version": 1,
+    "encoding": "UTF-8",
+    "standalone": "yes"
+  },
+  "root": {
+    "item": [
+      {
+        "id": 199,
+        "monsterID": 1851,
+        "name": "格莱奥",
+        "needmonID": 2499,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 200,
+        "monsterID": 2499,
+        "name": "格莱奥丹",
+        "needmonID": 3268,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 201,
+        "monsterID": 3268,
+        "name": "暗地魔影·格莱奥丹",
+        "needmonID": 3867,
+        "coinid": 1725705,
+        "price": 5,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 202,
+        "monsterID": 2401,
+        "name": "兮儿",
+        "needmonID": 2402,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 203,
+        "monsterID": 2402,
+        "name": "凯兮",
+        "needmonID": 2521,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 204,
+        "monsterID": 2521,
+        "name": "魔眼凯兮",
+        "needmonID": 3263,
+        "coinid": 1725705,
+        "price": 5,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 205,
+        "monsterID": 3263,
+        "name": "暗魇圣瞳·魔眼凯兮",
+        "needmonID": 3870,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 206,
+        "monsterID": 2001,
+        "name": "艾辛格",
+        "needmonID": 3224,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 207,
+        "monsterID": 3224,
+        "name": "暗武逆战·艾辛格斯",
+        "needmonID": 3875,
+        "coinid": 1725705,
+        "price": 5,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 208,
+        "monsterID": 1850,
+        "name": "伊兰迪",
+        "needmonID": 2465,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 209,
+        "monsterID": 2465,
+        "name": "伊修兰迪",
+        "needmonID": 3273,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 210,
+        "monsterID": 3273,
+        "name": "暗雷天闪·伊修兰迪",
+        "needmonID": 3879,
+        "coinid": 1725705,
+        "price": 5,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 211,
+        "monsterID": 1837,
+        "name": "诺伊尔",
+        "needmonID": 2509,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 212,
+        "monsterID": 2509,
+        "name": "诺伊尔顿",
+        "needmonID": 3261,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 213,
+        "monsterID": 3261,
+        "name": "暗影极夜·诺伊尔顿",
+        "needmonID": 3883,
+        "coinid": 1725705,
+        "price": 5,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 214,
+        "monsterID": 68,
+        "name": "米拉美",
+        "needmonID": 69,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 215,
+        "monsterID": 69,
+        "name": "提亚斯",
+        "needmonID": 2616,
+        "coinid": 1725705,
+        "price": 5,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 216,
+        "monsterID": 754,
+        "name": "斯林德",
+        "needmonID": 755,
+        "coinid": 1725705,
+        "price": 3,
+        "TimeLimitTID": 11
+      },
+      {
+        "id": 217,
+        "monsterID": 755,
+        "name": "斯普林特",
+        "needmonID": 2814,
+        "coinid": 1725705,
+        "price": 5,
+        "TimeLimitTID": 11
+      }
+    ]
+  }
+}

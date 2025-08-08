@@ -1,0 +1,804 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "mapid": 16,
+      "monster": 35,
+      "drop": "300_0_0_0;700_3_400030_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 2,
+      "mapid": 21,
+      "monster": 33,
+      "drop": "700_0_0_0;300_3_400029_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 3,
+      "mapid": 3006,
+      "monster": 35,
+      "drop": "300_0_0_0;700_3_400030_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 4,
+      "mapid": 3009,
+      "monster": 33,
+      "drop": "700_0_0_0;300_3_400029_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 5,
+      "mapid": 10,
+      "monster": 10,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 6,
+      "mapid": 10,
+      "monster": 164,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 7,
+      "mapid": 10,
+      "monster": 166,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 8,
+      "mapid": 11,
+      "monster": 16,
+      "drop": "700_0_0_0;300_3_400005_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 9,
+      "mapid": 11,
+      "monster": 27,
+      "drop": "700_0_0_0;300_3_400005_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 10,
+      "mapid": 11,
+      "monster": 2011,
+      "drop": "700_0_0_0;300_3_400005_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 11,
+      "mapid": 15,
+      "monster": 38,
+      "drop": "700_0_0_0;300_3_400007_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 12,
+      "mapid": 15,
+      "monster": 2210,
+      "drop": "700_0_0_0;300_3_400007_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 13,
+      "mapid": 3001,
+      "monster": 10,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 14,
+      "mapid": 3001,
+      "monster": 164,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 15,
+      "mapid": 3002,
+      "monster": 16,
+      "drop": "700_0_0_0;300_3_400005_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 16,
+      "mapid": 3002,
+      "monster": 27,
+      "drop": "700_0_0_0;300_3_400005_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 17,
+      "mapid": 3002,
+      "monster": 2011,
+      "drop": "700_0_0_0;300_3_400005_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 18,
+      "mapid": 3005,
+      "monster": 38,
+      "drop": "700_0_0_0;300_3_400007_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 19,
+      "mapid": 20,
+      "monster": 30,
+      "drop": "700_0_0_0;300_3_400006_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 20,
+      "mapid": 20,
+      "monster": 22,
+      "drop": "700_0_0_0;300_3_400006_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 21,
+      "mapid": 3008,
+      "monster": 30,
+      "drop": "700_0_0_0;300_3_400006_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 22,
+      "mapid": 25,
+      "monster": 23,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 23,
+      "mapid": 25,
+      "monster": 10,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 24,
+      "mapid": 25,
+      "monster": 312,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 25,
+      "mapid": 25,
+      "monster": 22,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 26,
+      "mapid": 25,
+      "monster": 53,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 27,
+      "mapid": 3011,
+      "monster": 23,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 28,
+      "mapid": 3011,
+      "monster": 22,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 29,
+      "mapid": 3011,
+      "monster": 53,
+      "drop": "700_0_0_0;300_3_400004_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 30,
+      "mapid": 26,
+      "monster": 26,
+      "drop": "700_0_0_0;300_3_400028_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 31,
+      "mapid": 26,
+      "monster": 25,
+      "drop": "700_0_0_0;300_3_400028_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 32,
+      "mapid": 3012,
+      "monster": 26,
+      "drop": "700_0_0_0;300_3_400028_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 33,
+      "mapid": 3012,
+      "monster": 25,
+      "drop": "700_0_0_0;300_3_400028_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 34,
+      "mapid": 27,
+      "monster": 250,
+      "drop": "700_0_0_0;300_3_400028_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 35,
+      "mapid": 27,
+      "monster": 249,
+      "drop": "700_0_0_0;300_3_400028_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 36,
+      "mapid": 3013,
+      "monster": 250,
+      "drop": "700_0_0_0;300_3_400028_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 37,
+      "mapid": 3013,
+      "monster": 249,
+      "drop": "700_0_0_0;300_3_400028_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 38,
+      "mapid": 30,
+      "monster": 13,
+      "drop": "700_0_0_0;300_3_400008_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 39,
+      "mapid": 30,
+      "monster": 286,
+      "drop": "700_0_0_0;300_3_400008_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 40,
+      "mapid": 3014,
+      "monster": 13,
+      "drop": "700_0_0_0;300_3_400008_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 41,
+      "mapid": 43,
+      "monster": 51,
+      "drop": "700_0_0_0;300_3_400003_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 42,
+      "mapid": 3023,
+      "monster": 51,
+      "drop": "700_0_0_0;300_3_400003_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 43,
+      "mapid": 49,
+      "monster": 106,
+      "drop": "700_0_0_0;300_3_400031_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 44,
+      "mapid": 49,
+      "monster": 105,
+      "drop": "700_0_0_0;300_3_400031_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 45,
+      "mapid": 3027,
+      "monster": 106,
+      "drop": "700_0_0_0;300_3_400031_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 46,
+      "mapid": 3027,
+      "monster": 105,
+      "drop": "700_0_0_0;300_3_400031_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 47,
+      "mapid": 56,
+      "monster": 211,
+      "drop": "700_0_0_0;300_3_400034_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 48,
+      "mapid": 56,
+      "monster": 212,
+      "drop": "700_0_0_0;300_3_400034_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 49,
+      "mapid": 105,
+      "monster": 89,
+      "drop": "700_0_0_0;300_3_400736_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 50,
+      "mapid": 105,
+      "monster": 90,
+      "drop": "700_0_0_0;300_3_400736_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 51,
+      "mapid": 3034,
+      "monster": 89,
+      "drop": "700_0_0_0;300_3_400736_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 52,
+      "mapid": 3034,
+      "monster": 90,
+      "drop": "700_0_0_0;300_3_400736_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 53,
+      "mapid": 106,
+      "monster": 188,
+      "drop": "700_0_0_0;300_3_400037_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 54,
+      "mapid": 106,
+      "monster": 189,
+      "drop": "700_0_0_0;300_3_400037_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 55,
+      "mapid": 3035,
+      "monster": 188,
+      "drop": "700_0_0_0;300_3_400037_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 56,
+      "mapid": 3035,
+      "monster": 189,
+      "drop": "700_0_0_0;300_3_400037_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 57,
+      "mapid": 484,
+      "monster": 706,
+      "drop": "500_0_0_0;500_3_400735_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 58,
+      "mapid": 484,
+      "monster": 707,
+      "drop": "500_0_0_0;500_3_400735_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 59,
+      "mapid": 3230,
+      "monster": 706,
+      "drop": "500_0_0_0;500_3_400735_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 60,
+      "mapid": 3230,
+      "monster": 707,
+      "drop": "500_0_0_0;500_3_400735_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 61,
+      "mapid": 60,
+      "monster": 232,
+      "drop": "700_0_0_0;300_3_400038_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 62,
+      "mapid": 60,
+      "monster": 234,
+      "drop": "700_0_0_0;300_3_400038_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 63,
+      "mapid": 3103,
+      "monster": 232,
+      "drop": "700_0_0_0;300_3_400038_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 64,
+      "mapid": 3103,
+      "monster": 234,
+      "drop": "700_0_0_0;300_3_400038_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 65,
+      "mapid": 325,
+      "monster": 265,
+      "drop": "700_0_0_0;300_3_1700774_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 66,
+      "mapid": 325,
+      "monster": 266,
+      "drop": "700_0_0_0;300_3_1700774_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 67,
+      "mapid": 3109,
+      "monster": 265,
+      "drop": "700_0_0_0;300_3_1700774_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 68,
+      "mapid": 3109,
+      "monster": 266,
+      "drop": "700_0_0_0;300_3_1700774_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 69,
+      "mapid": 338,
+      "monster": 399,
+      "drop": "700_0_0_0;300_3_400040_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 70,
+      "mapid": 338,
+      "monster": 400,
+      "drop": "700_0_0_0;300_3_400040_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 71,
+      "mapid": 3123,
+      "monster": 399,
+      "drop": "700_0_0_0;300_3_400040_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 72,
+      "mapid": 3123,
+      "monster": 400,
+      "drop": "700_0_0_0;300_3_400040_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 73,
+      "mapid": 782,
+      "monster": 764,
+      "drop": "1000_3_1700751_1",
+      "limit": "0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 74,
+      "mapid": 782,
+      "monster": 765,
+      "drop": "1000_3_1700751_1",
+      "limit": "0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 75,
+      "mapid": 989,
+      "monster": 265,
+      "drop": "700_0_0_0;300_3_1700774_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 76,
+      "mapid": 989,
+      "monster": 266,
+      "drop": "700_0_0_0;300_3_1700774_1",
+      "limit": "0_0;0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 77,
+      "mapid": 1063,
+      "monster": 139,
+      "drop": "1000_3_1703754_1",
+      "limit": "0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 78,
+      "mapid": 1087,
+      "monster": 726,
+      "drop": "1000_3_1704747_1",
+      "limit": "0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 79,
+      "mapid": 1177,
+      "monster": 3068,
+      "drop": "1000_3_1708748_1",
+      "limit": "0_0",
+      "activityid": 0,
+      "activitydrop": "",
+      "activitylimit": ""
+    },
+    {
+      "id": 80,
+      "mapid": 415,
+      "monster": 4670,
+      "drop": "",
+      "limit": "",
+      "activityid": 2416,
+      "activitydrop": "800_0_0_0;200_3_1726226_1",
+      "activitylimit": "0_0;201766_5"
+    }
+  ]
+}

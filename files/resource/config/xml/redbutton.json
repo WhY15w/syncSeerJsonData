@@ -1,0 +1,248 @@
+{
+  "root": {
+    "Red": [
+      {
+        "ID": 1,
+        "IsClick": 0,
+        "UserInfo": 0,
+        "BytePos": 0,
+        "ByteValue": 0,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "最新礼包_星愿漂流瓶可否许愿红点",
+        "From": "icon:shopcenter_icon"
+      },
+      {
+        "ID": 3,
+        "IsClick": 0,
+        "UserInfo": 16577,
+        "BytePos": 0,
+        "ByteValue": 1,
+        "Judge": 1,
+        "forwhat": 1,
+        "tips": "最新礼包_刻印抽奖机页签红点,消耗掉每日赛尔豆抽取次数后消失",
+        "From": "icon:shopcenter_icon"
+      },
+      {
+        "ID": 6,
+        "IsClick": 0,
+        "UserInfo": 0,
+        "BytePos": 0,
+        "ByteValue": 0,
+        "Judge": 0,
+        "forwhat": 3,
+        "tips": "主界面_【钻石任务】无每日任务/奖励待领取的情况下，则不显示",
+        "From": "icon:SeerTrainLog_icon"
+      },
+      {
+        "ID": 2,
+        "IsClick": 1,
+        "UserInfo": 121117,
+        "BytePos": 1,
+        "ByteValue": 8,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "主界面_【英雄圣殿巡回】更新提示红点，点击进入prepanel面板后消失",
+        "From": "icon:shengdianyingxiongtuan_icon"
+      },
+      {
+        "ID": 5,
+        "IsClick": 1,
+        "UserInfo": 121117,
+        "BytePos": 2,
+        "ByteValue": 22,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "主界面_【商会周刊】更新提示红点，点击进入对应面板后消失",
+        "From": "icon:ShangHuiZhouKan_icon"
+      },
+      {
+        "ID": 7,
+        "IsClick": 1,
+        "UserInfo": 121117,
+        "BytePos": 3,
+        "ByteValue": 31,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失",
+        "From": "icon:announcement_icon"
+      },
+      {
+        "ID": 8,
+        "IsClick": 1,
+        "UserInfo": 121117,
+        "BytePos": 4,
+        "ByteValue": 19,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "主界面_【星河长明商店】更新提示红点，点击进入对应面板后消失",
+        "From": "icon:markJackpot_icon"
+      },
+      {
+        "ID": 9,
+        "IsClick": 1,
+        "UserInfo": 121118,
+        "BytePos": 1,
+        "ByteValue": 45,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "最新礼包_【付费活动1】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:shopcenter_icon"
+      },
+      {
+        "ID": 10,
+        "IsClick": 1,
+        "UserInfo": 121118,
+        "BytePos": 2,
+        "ByteValue": 35,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "最新礼包_【付费活动2】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:shopcenter_icon"
+      },
+      {
+        "ID": 11,
+        "IsClick": 1,
+        "UserInfo": 121118,
+        "BytePos": 3,
+        "ByteValue": 38,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "最新礼包_【付费活动3】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:shopcenter_icon"
+      },
+      {
+        "ID": 14,
+        "IsClick": 1,
+        "UserInfo": 121221,
+        "BytePos": 2,
+        "ByteValue": 37,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "最新礼包_【付费活动6】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:shopcenter_icon"
+      },
+      {
+        "ID": 20,
+        "IsClick": 1,
+        "UserInfo": 121222,
+        "BytePos": 4,
+        "ByteValue": 26,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "最新礼包_【付费活动12】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:shopcenter_icon"
+      },
+      {
+        "ID": 43,
+        "IsClick": 1,
+        "UserInfo": 121230,
+        "BytePos": 1,
+        "ByteValue": 23,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "最新礼包_【付费活动13】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:shopcenter_icon"
+      },
+      {
+        "ID": 44,
+        "IsClick": 1,
+        "UserInfo": 121230,
+        "BytePos": 2,
+        "ByteValue": 14,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "最新礼包_【付费活动14】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:shopcenter_icon"
+      },
+      {
+        "ID": 51,
+        "IsClick": 1,
+        "UserInfo": 121228,
+        "BytePos": 2,
+        "ByteValue": 106,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "最新礼包_【付费活动18】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:shopcenter_icon"
+      },
+      {
+        "ID": 100,
+        "IsClick": 2,
+        "UserInfo": 121224,
+        "BytePos": 1,
+        "ByteValue": 100,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "主界面_【精灵觉醒更新】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:lotteryIcon"
+      },
+      {
+        "ID": 102,
+        "IsClick": 0,
+        "UserInfo": 0,
+        "BytePos": 0,
+        "ByteValue": 0,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "主界面_【精灵觉醒任务】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:lotteryIcon"
+      },
+      {
+        "ID": 27,
+        "IsClick": 0,
+        "UserInfo": 0,
+        "BytePos": 0,
+        "ByteValue": 1,
+        "Judge": 0,
+        "forwhat": 3,
+        "tips": "主界面_【新春回馈】无奖励待领取的情况下，则不显示",
+        "From": "icon:springFeedback_icon"
+      },
+      {
+        "ID": 28,
+        "IsClick": 1,
+        "UserInfo": 30061,
+        "BytePos": 1,
+        "ByteValue": 2,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "主界面_【2025年费】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:yearvip_icon"
+      },
+      {
+        "ID": 29,
+        "IsClick": 1,
+        "UserInfo": 121222,
+        "BytePos": 4,
+        "ByteValue": 3,
+        "Judge": 0,
+        "forwhat": 3,
+        "tips": "主界面_【刻印之轮】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:markJackpot_icon"
+      },
+      {
+        "ID": 30,
+        "IsClick": 1,
+        "UserInfo": 201731,
+        "BytePos": 1,
+        "ByteValue": 3,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "主界面_【钻石月卡】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:monthlycard"
+      },
+      {
+        "ID": 105,
+        "IsClick": 1,
+        "UserInfo": 121224,
+        "BytePos": 1,
+        "ByteValue": 1,
+        "Judge": 0,
+        "forwhat": 1,
+        "tips": "主界面_【最新活动】提示红点，点击进入活动面板后红点消失",
+        "From": "icon:FinalActivityPanel"
+      }
+    ]
+  }
+}

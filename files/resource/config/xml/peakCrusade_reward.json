@@ -1,0 +1,653 @@
+{
+  "root": {
+    "defaultMenu": {
+      "name": "专属精灵",
+      "id": 0,
+      "viewNum": 0
+    },
+    "menu": [
+      {
+        "item": [
+          {
+            "name": "业凛",
+            "itemID": 4458,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123086,
+            "restrictions": 19,
+            "exchangeId": 13896,
+            "monappend": "42309_36334_5962"
+          },
+          {
+            "name": "妤玫",
+            "itemID": 4474,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123086,
+            "restrictions": 21,
+            "exchangeId": 13956,
+            "monappend": "42337_36423_5973"
+          },
+          {
+            "name": "冥霞",
+            "itemID": 4482,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123086,
+            "restrictions": 23,
+            "exchangeId": 13967,
+            "monappend": "42341_36470_5985"
+          },
+          {
+            "name": "凯丝",
+            "itemID": 4490,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123086,
+            "restrictions": 25,
+            "exchangeId": 14035,
+            "monappend": "42343_36513_5992"
+          },
+          {
+            "name": "箫澈",
+            "itemID": 4496,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123086,
+            "restrictions": 27,
+            "exchangeId": 14060,
+            "monappend": "42346_36547_6003"
+          },
+          {
+            "name": "梅林",
+            "itemID": 4509,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123086,
+            "restrictions": 29,
+            "exchangeId": 14084,
+            "monappend": "42352_36610_6014"
+          },
+          {
+            "name": "铃熙",
+            "itemID": 4517,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123086,
+            "restrictions": 31,
+            "exchangeId": 14109,
+            "monappend": "42378_36668_6024"
+          },
+          {
+            "name": "雪姝",
+            "itemID": 4529,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123346,
+            "restrictions": 1,
+            "exchangeId": 14130,
+            "monappend": "42405_36733_6033"
+          },
+          {
+            "name": "霆律",
+            "itemID": 4561,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123346,
+            "restrictions": 7,
+            "exchangeId": 14189,
+            "monappend": "42423_36893_6065"
+          },
+          {
+            "name": "怜羽",
+            "itemID": 4552,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123346,
+            "restrictions": 5,
+            "exchangeId": 14173,
+            "monappend": "42418_28433_6053"
+          },
+          {
+            "name": "山椿",
+            "itemID": 4566,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123346,
+            "restrictions": 9,
+            "exchangeId": 14198,
+            "monappend": "42426_36919_6069"
+          },
+          {
+            "name": "寂娆",
+            "itemID": 4574,
+            "price": 600,
+            "requireLv": 35,
+            "forever": 123346,
+            "restrictions": 11,
+            "exchangeId": 14218,
+            "monappend": "42441_36954_6077"
+          }
+        ],
+        "_text": "-->\r\n    ",
+        "name": "专属精灵",
+        "id": 0,
+        "viewNum": 11
+      },
+      {
+        "item": [
+          {
+            "name": "永驻之心·业凛",
+            "itemID": 514,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123086,
+            "restrictions": 20,
+            "exchangeId": 13897
+          },
+          {
+            "name": "末世火莲·妤玫",
+            "itemID": 522,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123086,
+            "restrictions": 22,
+            "exchangeId": 13957
+          },
+          {
+            "name": "幽色番长·冥霞",
+            "itemID": 527,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123086,
+            "restrictions": 24,
+            "exchangeId": 13968
+          },
+          {
+            "name": "侍之绯鲨·凯丝",
+            "itemID": 532,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123086,
+            "restrictions": 26,
+            "exchangeId": 14036
+          },
+          {
+            "name": "紫藤依旧·箫澈",
+            "itemID": 537,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123086,
+            "restrictions": 28,
+            "exchangeId": 14061
+          },
+          {
+            "name": "禁忌之恋·梅林",
+            "itemID": 543,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123086,
+            "restrictions": 30,
+            "exchangeId": 14085
+          },
+          {
+            "name": "魑魅妖火·铃熙",
+            "itemID": 554,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123086,
+            "restrictions": 32,
+            "exchangeId": 14110
+          },
+          {
+            "name": "寒冤之泪·雪姝",
+            "itemID": 559,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123346,
+            "restrictions": 2,
+            "exchangeId": 14131
+          },
+          {
+            "name": "野性狩猎·霆律",
+            "itemID": 572,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123346,
+            "restrictions": 8,
+            "exchangeId": 14190
+          },
+          {
+            "name": "和平之约·怜羽",
+            "itemID": 571,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123346,
+            "restrictions": 6,
+            "exchangeId": 14174
+          },
+          {
+            "name": "异界之种·山椿",
+            "itemID": 578,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123346,
+            "restrictions": 10,
+            "exchangeId": 14199
+          },
+          {
+            "name": "拘捕密令·寂娆",
+            "itemID": 583,
+            "price": 600,
+            "requireLv": 0,
+            "forever": 123346,
+            "restrictions": 12,
+            "exchangeId": 14219
+          }
+        ],
+        "_text": "-->\r\n    ",
+        "name": "精灵皮肤",
+        "id": 1,
+        "viewNum": 11
+      },
+      {
+        "item": [
+          {
+            "name": "圣战之巅α",
+            "itemID": 42310,
+            "price": 900,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 13927
+          },
+          {
+            "name": "圣战之绝α",
+            "itemID": 42311,
+            "price": 900,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 13928
+          },
+          {
+            "name": "圣战之锋α",
+            "itemID": 42312,
+            "price": 900,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 13929
+          },
+          {
+            "name": "圣战之舞α",
+            "itemID": 42313,
+            "price": 900,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 13930
+          },
+          {
+            "name": "圣战之渊α",
+            "itemID": 42314,
+            "price": 900,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 13931
+          },
+          {
+            "name": "圣战之鸿α",
+            "itemID": 42315,
+            "price": 900,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 13932
+          },
+          {
+            "name": "圣战之界α",
+            "itemID": 42316,
+            "price": 900,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 13933
+          },
+          {
+            "name": "圣战之阵α",
+            "itemID": 42317,
+            "price": 900,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 13934
+          },
+          {
+            "name": "圣战之究极α",
+            "itemID": 42318,
+            "price": 900,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 13935
+          },
+          {
+            "name": "圣战之无限α",
+            "itemID": 42319,
+            "price": 900,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 13936
+          },
+          {
+            "name": "圣战之巅",
+            "itemID": 41329,
+            "price": 750,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9189
+          },
+          {
+            "name": "圣战之绝",
+            "itemID": 41330,
+            "price": 750,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9190
+          },
+          {
+            "name": "圣战之锋",
+            "itemID": 41331,
+            "price": 750,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9191
+          },
+          {
+            "name": "圣战之舞",
+            "itemID": 41332,
+            "price": 750,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9192
+          },
+          {
+            "name": "圣战之渊",
+            "itemID": 41333,
+            "price": 750,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9193
+          },
+          {
+            "name": "圣战之鸿",
+            "itemID": 41334,
+            "price": 750,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9194
+          },
+          {
+            "name": "圣战之界",
+            "itemID": 41335,
+            "price": 750,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9195
+          },
+          {
+            "name": "圣战之阵",
+            "itemID": 41336,
+            "price": 750,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9196
+          },
+          {
+            "name": "圣战之究极",
+            "itemID": 41337,
+            "price": 750,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9197
+          },
+          {
+            "name": "圣战之无限",
+            "itemID": 41338,
+            "price": 750,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9198
+          }
+        ],
+        "name": "最强刻印",
+        "id": 2,
+        "viewNum": 10
+      },
+      {
+        "item": [
+          {
+            "name": "冻伤宝石Lv6 ",
+            "itemID": 1800006,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11703
+          },
+          {
+            "name": "烧伤宝石Lv6 ",
+            "itemID": 1800016,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11704
+          },
+          {
+            "name": "中毒宝石Lv6 ",
+            "itemID": 1800026,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11705
+          },
+          {
+            "name": "速度+1宝石Lv6 ",
+            "itemID": 1800036,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11706
+          },
+          {
+            "name": "攻击+1宝石Lv6 ",
+            "itemID": 1800046,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11707
+          },
+          {
+            "name": "特攻+1宝石Lv6 ",
+            "itemID": 1800056,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11708
+          },
+          {
+            "name": "防御+1宝石Lv6 ",
+            "itemID": 1800066,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11709
+          },
+          {
+            "name": "特防+1宝石Lv6 ",
+            "itemID": 1800076,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11710
+          },
+          {
+            "name": "固定伤害宝石Lv6 ",
+            "itemID": 1800086,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11711
+          },
+          {
+            "name": "致命一击宝石Lv6 ",
+            "itemID": 1800096,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11712
+          },
+          {
+            "name": "疲惫宝石Lv6 ",
+            "itemID": 1800106,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11713
+          },
+          {
+            "name": "麻痹宝石Lv6 ",
+            "itemID": 1800116,
+            "price": 300,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 11714
+          }
+        ],
+        "name": "刻印宝石",
+        "id": 3,
+        "viewNum": 10
+      },
+      {
+        "item": [
+          {
+            "name": "典狱官套装",
+            "itemID": 337,
+            "price": 500,
+            "requireLv": 0,
+            "forever": 100669,
+            "restrictions": 4,
+            "exchangeId": 9200
+          },
+          {
+            "name": "典狱长套装",
+            "itemID": 370,
+            "price": 1500,
+            "requireLv": 0,
+            "forever": 100669,
+            "restrictions": 5,
+            "exchangeId": 9201
+          },
+          {
+            "name": "笑傲巅峰套装",
+            "itemID": 393,
+            "price": 1500,
+            "requireLv": 0,
+            "forever": 101573,
+            "restrictions": 5,
+            "exchangeId": 11725
+          },
+          {
+            "name": "毒液战甲",
+            "itemID": 404,
+            "price": 1500,
+            "requireLv": 0,
+            "forever": 101573,
+            "restrictions": 30,
+            "exchangeId": 12791
+          }
+        ],
+        "name": "强力套装",
+        "id": 4,
+        "viewNum": 3
+      },
+      {
+        "item": [
+          {
+            "name": "修的神奇药水",
+            "itemID": 300749,
+            "price": 2,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9202
+          },
+          {
+            "name": "龙的振奋药水",
+            "itemID": 300750,
+            "price": 2,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9203
+          },
+          {
+            "name": "雷诺的急救包",
+            "itemID": 300751,
+            "price": 2,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 9204
+          }
+        ],
+        "name": "巅峰药剂",
+        "id": 5,
+        "viewNum": 10
+      },
+      {
+        "item": [
+          {
+            "name": "通用刻印激活水晶",
+            "itemID": 300066,
+            "price": 1500,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 12792
+          },
+          {
+            "name": "红宝石",
+            "itemID": 1706927,
+            "price": 3,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 12793
+          },
+          {
+            "name": "绿宝石",
+            "itemID": 1706928,
+            "price": 3,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 12794
+          }
+        ],
+        "name": "珍贵道具",
+        "id": 6,
+        "viewNum": 10
+      },
+      {
+        "item": [
+          {
+            "name": "圣战奖章",
+            "itemID": 1717451,
+            "price": 0,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 0
+          },
+          {
+            "name": "荣耀铸币",
+            "itemID": 1717452,
+            "price": 0,
+            "requireLv": 0,
+            "restrictions": 0,
+            "exchangeId": 0
+          }
+        ],
+        "name": "巅峰货币 ",
+        "id": 99,
+        "viewNum": 0
+      }
+    ]
+  }
+}
